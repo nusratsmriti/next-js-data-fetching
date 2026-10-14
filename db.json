@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 1500,
+      "description": "High-quality wireless headphones with clear sound and comfortable ear cushions.",
+      "image": "https://placehold.co/400x300?text=Headphones",
+      "stock": 25,
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 2500,
+      "description": "A stylish smartwatch with fitness tracking and notification features.",
+      "image": "https://placehold.co/400x300?text=Smart+Watch",
+      "stock": 15,
+      "rating": 4.3
+    },
+    {
+      "id": "3",
+      "name": "Cotton T-Shirt",
+      "category": "Clothing",
+      "price": 550,
+      "description": "A comfortable cotton T-shirt suitable for everyday wear.",
+      "image": "https://placehold.co/400x300?text=T-Shirt",
+      "stock": 50,
+      "rating": 4.2
+    },
+    {
+      "id": "4",
+      "name": "Backpack",
+      "category": "Accessories",
+      "price": 1200,
+      "description": "A durable backpack with multiple compartments for school, work, and travel.",
+      "image": "https://placehold.co/400x300?text=Backpack",
+      "stock": 20,
+      "rating": 4.6
+    },
+    {
+      "id": "5",
+      "name": "Mechanical Keyboard",
+      "category": "Computer Accessories",
+      "price": 3200,
+      "description": "A responsive mechanical keyboard designed for programming and gaming.",
+      "image": "https://placehold.co/400x300?text=Keyboard",
+      "stock": 10,
+      "rating": 4.8
+    }
+  ]
+}
